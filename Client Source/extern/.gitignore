@@ -1,0 +1,7 @@
+cryptopp/Win32
+*.VC.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.suo

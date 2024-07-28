@@ -1,0 +1,1 @@
+@copy /v /y "Release\uiscriptlib.pyd" "..\..\..\..\..\..\files\bin\lib\uiscriptlib.pyd"

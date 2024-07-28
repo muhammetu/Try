@@ -1,0 +1,1 @@
+@copy /v /y "Release\rootlib.pyd" "..\..\..\..\..\..\files\bin\lib\rootlib.pyd"

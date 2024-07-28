@@ -1,0 +1,12 @@
+*.VC.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.suo
+lzo/Release/*
+lzo/Debug/*
+dump_proto/Release/*
+dump_proto/Debug/*
+Release/*
+Debug/*
